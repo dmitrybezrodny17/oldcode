@@ -6,7 +6,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import webdriver_manager.chrome
 import csv
 import random
-import os
+import os 
 import pyautogui
 import pandas
 
